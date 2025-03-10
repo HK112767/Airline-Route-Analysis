@@ -34,17 +34,3 @@ The goal of this analysis is to identify the busiest and most profitable round-t
 ### 6. Investment Recommendation
 - Selected the 5 most profitable routes for investment.
 - Calculated the break-even number of flights required to recover the $90M aircraft cost.
-
-### 7. Key Performance Indicators (KPIs)
-- **On-time Performance**: Percentage of flights arriving on time.
-- **Load Factor**: Mean flight occupancy rate.
-- **Revenue per Mile**: Total revenue divided by total distance traveled.
-- **Cost per Mile**: Total operating cost divided by total distance traveled.
-- **Customer Satisfaction**: Customer experience rating based on surveys.
-
-## Outcomes
-- **Busy Routes**: Identified and mapped the 10 busiest round-trip airline routes.
-- **Profitable Routes**: Identified the 10 most profitable routes in terms of revenue and operating expenses.
-- **Investment Decision**: Suggested the 5 most profitable routes for investment.
-- **Break-even Calculation**: Computed the number of flights required to recover aircraft costs.
-- **Performance Tracker**: Established KPIs to monitor future route performance and operational efficiency.
